@@ -45,5 +45,15 @@ https://shop.hueber.de/de/catalog/product/view/id/27652/s/menschen-a1-1-kb-o-dvd
 🔜 Future Updates :
 📣 In future I want to make a Graphical User Interface for it with PyQt5.
 
-![The way that SelfTranslate application works](https://github.com/codewithnine/SelfTranslate/blob/master/IMG_0980.PNG)
+## This is how it works
+If we send a text file as an input text to the app like this:
+![Input Text](https://github.com/codewithnine/SelfTranslate/blob/master/Screen%20Shot%202020-02-21%20at%2012.16.56%20AM.png)
+---
+Here is what we can get as a report:
+![Input Text](https://github.com/codewithnine/SelfTranslate/blob/master/Screen%20Shot%202020-02-21%20at%2012.18.22%20AM.png)
+---
+
+This is how it would look in a database:
+![Input Text](https://github.com/codewithnine/SelfTranslate/blob/master/Screen%20Shot%202020-03-12%20at%204.04.35%20AM.png)
+---
 
